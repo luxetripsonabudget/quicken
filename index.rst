@@ -1,7 +1,6 @@
 Step-by-Step: How to Download Quicken Already Purchased (2025)
 ---------------------------------------------------------------
 
-
 .. raw:: html
 
     <div style="text-align:center; margin-top:25px; margin-bottom:40px;">
@@ -10,49 +9,79 @@ Step-by-Step: How to Download Quicken Already Purchased (2025)
         </a>
     </div>
 
-Follow these exact steps to **download Quicken you already purchased** on your device:
+If you've already purchased Quicken and want to reinstall it, whether on the same device or a new computer, follow the steps below. These apply to Windows 11, Mac, and Canadian users.
 
-1. **Go to the Official Website**  
-   Visit `https://www.quicken.com`.  
-   Click **Sign In** on the top-right and select **My Account**.
+1. **Visit the Official Quicken Website**  
+   Go to the official page: `https://www.quicken.com <https://www.quicken.com>`_.  
+   Click **Sign In** at the top-right and choose **My Account**.
 
-2. **Sign In with Your Quicken ID**  
-   Log in using the **email address used at purchase**.  
-   If you forgot your credentials, use the **Forgot Password** option.
+2. **Log In With Your Quicken ID**  
+   Sign in using the email used when purchasing Quicken.  
+   Forgot your credentials? Use the **Forgot Password** option.
 
-3. **Access Your Purchase**  
-   - Navigate to **Subscriptions** or **Order History** in your account.  
-   - Locate the product listing for **Quicken you already purchased**.  
-   - Click **Download** next to the matching version (Windows or Mac).
+3. **Locate Your Purchase and Download Quicken**  
+   After logging in, go to:
 
-4. **Choose the Correct Version for Your System**  
-   - For **Windows 11 or 10**: Click **Download for Windows**  
-   - For **Mac users**: Click **Download for Mac**
+   - **Subscriptions** or **Order History**  
+   - Find your product labeled **Quicken for Windows** or **Quicken for Mac**  
+   - Click **Download**
+
+   You can also visit: `https://www.quicken.com/my-account <https://www.quicken.com/my-account>`_
+
+4. **Choose the Correct Version**  
+   - For **Windows 11 or Windows 10**, select **Download for Windows**  
+   - For **macOS**, choose **Download for Mac**
 
 .. tip::
-   This will download a `.exe` (Windows) or `.dmg` (Mac) installer file.
+   This will download either a `.exe` file for Windows or a `.dmg` file for Mac.
 
 5. **Install Quicken on Your Device**  
-   - **Windows**: Double-click the `.exe` and complete setup steps  
-   - **Mac**: Open the `.dmg` and drag Quicken to the **Applications** folder
+   - **On Windows**: Run the downloaded `.exe` and follow the install wizard  
+   - **On Mac**: Open `.dmg` and drag **Quicken** to the Applications folder
 
-6. **Activate With Your Quicken ID**  
-   After installation, open **Quicken**.  
-   Sign in again using your **Quicken ID** — your subscription will auto-activate.  
-   No product key is needed.
+6. **Activate Using Your Quicken ID**  
+   Launch Quicken after installation.  
+   Sign in with your **Quicken ID**, and your subscription will activate automatically.
 
 .. note::
-   These same steps work if you're switching to a **new computer** or reinstalling **Quicken in Canada**. Use `https://www.quicken.com/canada` for the Canadian version.
+   No license key is required. Activation is automatic if you're logged in with the same account you purchased from.
 
---------------------
+.. important::
+   These steps also apply if you're switching to a new PC or installing from Canada.  
+   Use the regional site: `https://www.quicken.com/canada <https://www.quicken.com/canada>`_
+
+---
 
 Quick Questions Answered
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**❓ How do I reinstall Quicken I already purchased?**  
-Go to `quicken.com`, sign in, locate your purchase under *Order History*, and click **Download**. Then install and activate with your **Quicken ID**.
+**🔁 How do I reinstall Quicken I already purchased?**  
+Visit `https://www.quicken.com`, sign in, and head to **Order History**.  
+Click **Download**, install, and log in with your existing Quicken ID.
 
-**❓ Can I use Quicken I already purchased on a new computer?**  
-Yes. Log in with your same Quicken ID on your new device, and you'll be able to download and activate without repurchasing.
+**💻 Can I download Quicken to a new computer?**  
+Yes, just repeat the same steps on your new device.  
+Your subscription is tied to your Quicken ID, not your hardware.
 
---------------------
+**🇨🇦 Can Canadian users download Quicken this way?**  
+Yes! Use the Canadian portal: `https://www.quicken.com/canada`.
+
+**📱 Is there a mobile app version of Quicken?**  
+Yes. You can download the **Quicken mobile app** from the Google Play Store or Apple App Store. It works free with your active subscription.
+
+**🛠️ Having trouble downloading Quicken?**  
+Try the following:
+
+- Clear your browser cache
+- Switch to Chrome, Edge, or Firefox
+- Temporarily disable antivirus software
+- Restart your computer and retry
+
+Still need help? Visit the official support page:  
+`https://www.quicken.com/support <https://www.quicken.com/support>`_
+
+---
+
+Want the Canadian version? → `quicken.com/canada <https://www.quicken.com/canada>`_  
+Need to reinstall on a new device? → `quicken.com/my-account <https://www.quicken.com/my-account>`_
+
