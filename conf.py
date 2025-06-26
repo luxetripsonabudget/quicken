@@ -27,12 +27,10 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'furo'
 
 html_theme_options = {
-    'sidebar_hide_name': False,
-    'navigation_with_keys': False
-}
-
-html_theme_options = {
-    'show_powered_by': False,
+    "footer_icons": [],  # Hides 'Made with Furo'
+    "sidebar_hide_name": False,
+    "navigation_with_keys": False,
+    "show_powered_by": False  # Optional, even though Furo doesn't use this
 }
 
 html_title = "Step-by-Step: How to Download Quicken Already Purchased"
