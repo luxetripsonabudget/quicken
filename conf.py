@@ -31,6 +31,7 @@ html_favicon = 'favicon.ico'
 
 # Choose a theme (uncomment if needed)
 # html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
 
 # Hide "View page source"
 html_show_sourcelink = False
