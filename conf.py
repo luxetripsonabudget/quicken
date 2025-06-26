@@ -33,6 +33,9 @@ html_theme_options = {
     "show_powered_by": False  # Optional, even though Furo doesn't use this
 }
 
+# Paths to templates and static files
+templates_path = ['_templates']
+
 html_title = "Step-by-Step: How to Download Quicken Already Purchased"
 html_short_title = "Download Quicken Already Purchased"
 html_favicon = 'favicon.ico'
