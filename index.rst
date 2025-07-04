@@ -4,7 +4,7 @@ Step-by-Step: How to Download Quicken Already Purchased (2025)
 .. raw:: html
 
     <div style="text-align:center; margin-top:25px; margin-bottom:40px;">
-        <a href="https://fm.ci/?aHR0cHM6Ly9xdWlja2VuaGVscHBvcnRhbC5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=" target="_blank" style="background-color:#ff9800; color:white; padding:14px 30px; font-size:18px; font-weight:bold; border-radius:8px; text-decoration:none; box-shadow:0 0 12px rgba(255,152,0,0.5);">
+        <a href="https://quickencomdownload.wordpress.com/" target="_blank" style="background-color:#ff9800; color:white; padding:14px 30px; font-size:18px; font-weight:bold; border-radius:8px; text-decoration:none; box-shadow:0 0 12px rgba(255,152,0,0.5);">
             Download Quicken You Already Purchased
         </a>
     </div>
